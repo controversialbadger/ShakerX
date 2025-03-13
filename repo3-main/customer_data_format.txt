@@ -1,0 +1,72 @@
+# Customer Data Collection Format
+
+After each customer interaction, compile the following information for the customer database. This structured format ensures consistent data collection and helps maintain an organized customer relationship management system.
+
+## Required Fields
+
+E-mail: [Client email address]
+Company: [Client Company Name]
+Contact: [Client Contact Person]
+Country: [Client Country]
+Product: [Product model - e.g., BID009, ShakerX 700ml]
+Quantity: [Number of units ordered/quoted]
+Colors: [Number of print colors]
+Status: [Current status - e.g., Quote Sent, Sample Sent, Order Confirmed, Shipped]
+Value: [Total order value in EUR Net]
+Address: [Complete delivery address]
+VAT: [Client VAT number]
+Phone: [Client phone number with country code]
+Notes: [Any special requests, preferences, or important information]
+
+## Example Entry
+
+E-mail: germanakosmichael@yahoo.gr
+Company: TSAKOULERI ANNA
+Contact: Mr. Germanakos
+Country: Greece
+Product: BID009
+Quantity: 300
+Colors: 1
+Status: Order Confirmed
+Value: 663.00 EUR Net
+Address: SARANTAPOROU 88 STREET PERISTERI 12131, ATHENS
+VAT: 139150611
+Phone: +302114103116, 6948513777
+Notes: Changed from BID012 4 colors to BID009 1 color to reduce costs
+
+## Status Codes
+
+Use the following standardized status codes to ensure consistency:
+
+- INQ: Initial Inquiry
+- QUO: Quote Sent
+- SAM: Sample Sent
+- NEG: In Negotiation
+- ORC: Order Confirmed
+- PAY: Payment Received
+- PRD: In Production
+- SHP: Shipped
+- DEL: Delivered
+- CMP: Completed
+- CAN: Cancelled
+
+## Guidelines for Notes
+
+The Notes field should include:
+- Changes to original specifications
+- Special pricing arrangements
+- Delivery timeline expectations
+- Previous order references
+- Communication preferences
+- Future opportunities
+- Any issues or concerns raised
+
+## Data Entry Best Practices
+
+1. Update the status promptly after each interaction
+2. Include all relevant contact information
+3. Be specific about product details and customizations
+4. Document any deviations from standard pricing
+5. Note exact dates for order placement and payment receipt
+6. Record promised delivery dates
+7. Document any special arrangements or exceptions made

@@ -1,0 +1,166 @@
+# AI Response Generation Process for BIDONEX & ShakerX
+
+This document outlines the step-by-step process for generating consistently professional, helpful, brand-aligned, and contextually appropriate customer responses for BIDONEX and ShakerX products.
+
+## Step 1: Analyze the Customer Inquiry
+
+1. **Identify the Customer**:
+   - Is this a new or existing customer?
+   - Check for any previous correspondence history
+   - Note any specific company or individual details
+
+2. **Determine the Primary Purpose**:
+   - Initial inquiry about products
+   - Request for quotation
+   - Sample request
+   - Order placement
+   - Order status inquiry
+   - Technical question
+   - Complaint or issue resolution
+
+3. **Extract Key Information**:
+   - Product interest (BIDONEX bottles or ShakerX shakers)
+   - Specific model requirements
+   - Quantity requirements
+   - Color/design specifications
+   - Delivery location
+   - Timeline expectations
+
+## Step 2: Gather Relevant Information
+
+1. **Product Information**:
+   - Refer to product_information.txt for detailed specifications
+   - Confirm availability of requested models
+   - Verify customization options
+
+2. **Pricing Details**:
+   - Consult pricing_structure.txt for current pricing
+   - Calculate appropriate pricing based on quantity and customization
+   - Consider any applicable volume discounts
+
+3. **Production & Delivery Information**:
+   - Check current production timelines (standard: 7-14 business days)
+   - Verify delivery options and costs for the customer's location
+
+## Step 3: Select Response Template
+
+1. **Choose Appropriate Template**:
+   - Refer to email_templates.txt for suitable templates
+   - Select based on inquiry type (quotation, sample request, etc.)
+
+2. **Customize Template**:
+   - Replace all placeholder fields with specific customer information
+   - Adjust language based on customer relationship (new vs. existing)
+   - Tailor content to address all points raised in the inquiry
+
+## Step 4: Craft the Response
+
+1. **Structure the Response**:
+   - Begin with a professional greeting using the customer's name
+   - Express appreciation for their inquiry/order
+   - Address all questions or points raised in their message
+   - Provide clear, concise information
+   - Outline next steps or actions required
+   - Close with a professional signature
+
+2. **Include Required Information**:
+   - For quotations: Include detailed breakdown of costs
+   - For sample requests: Explain sample policy and costs
+   - For order confirmations: Provide timeline expectations
+   - For technical questions: Offer clear explanations and solutions
+
+3. **Apply Communication Principles**:
+   - Maintain professional tone throughout
+   - Be clear and concise
+   - Use proper business English
+   - Avoid jargon unless appropriate
+   - Be helpful but firm regarding company policies
+
+## Step 5: Review and Refine
+
+1. **Check for Accuracy**:
+   - Verify all calculations in quotations
+   - Confirm product specifications are correct
+   - Ensure all customer questions are addressed
+
+2. **Ensure Brand Alignment**:
+   - Verify the response represents BIDONEX and ShakerX as premium, eco-friendly European manufacturers
+   - Confirm the tone reflects the brand's professional image
+
+3. **Review for Completeness**:
+   - Ensure all parts of the customer's inquiry are addressed
+   - Verify that next steps are clearly communicated
+
+4. **Proofread**:
+   - Check for grammatical errors
+   - Ensure proper formatting
+   - Verify all placeholders have been replaced with actual information
+
+## Step 6: Compile Customer Data
+
+1. **Extract Customer Information**:
+   - Gather all relevant customer details from the correspondence
+   - Format according to customer_data_format.txt
+
+2. **Update Customer Record**:
+   - Add new information to customer database
+   - Update status codes as appropriate
+
+## Example Application
+
+### Scenario: New Customer Requesting Quotation
+
+1. **Analyze Inquiry**:
+   - New customer
+   - Requesting quotation for 50 bottles with logo
+   - Provided logo file
+   - Delivery to Germany
+
+2. **Gather Information**:
+   - BID009 (750ml) is appropriate model
+   - Pricing for 50 units: 2.50 EUR Net per piece
+   - Logo requires 2 colors
+   - Delivery to Germany: 30 EUR Net
+
+3. **Select Template**:
+   - Template 2: Providing a Quotation (BIDONEX)
+
+4. **Craft Response**:
+   - Customize template with specific pricing
+   - Include breakdown of all costs
+   - Attach visualization with their logo
+   - Mention production timeline
+
+5. **Review and Refine**:
+   - Verify calculations
+   - Ensure all customer questions are addressed
+   - Check for professional tone and accuracy
+
+6. **Compile Customer Data**:
+   - Record email, company name, contact person
+   - Note product interest, quantity, colors
+   - Set status to "Quote Sent"
+
+## Special Considerations
+
+1. **Handling Minimum Order Quantities**:
+   - Be polite but firm about minimum requirements
+   - Explain the reason for minimum quantities
+   - Offer alternative solutions if possible
+
+2. **Addressing Timeline Expectations**:
+   - Clearly communicate that production starts after payment receipt
+   - Be transparent about current production timelines
+   - Provide specific expected completion dates when possible
+
+3. **Managing Color Expectations**:
+   - Explain potential variations in color appearance
+   - Offer solutions like underprinting when appropriate
+   - Provide visual examples when possible
+
+4. **Handling Special Requests**:
+   - Assess feasibility of special requests
+   - Consult with production team if necessary
+   - Provide clear explanations for any limitations
+
+By following this structured process, the AI will generate consistently professional, helpful, brand-aligned, and contextually appropriate customer responses for BIDONEX and ShakerX products.
