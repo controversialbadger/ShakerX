@@ -1,0 +1,116 @@
+# SHIPPING AND PACKAGING INFORMATION
+
+## Packaging Details
+
+### BIDONEX Packaging
+- Bottles are securely packed in durable carton boxes
+- Box Size: 810 x 420 x 520 mm
+- Boxes and pallets are clearly labeled with net and gross weights
+- Palletized storage ensures safe and eco-friendly transportation
+
+### ShakerX Packaging
+- Shakers are carefully packed to prevent damage during transport
+- Box Size: 600 x 400 x 480 mm
+- Secure packaging optimized for efficient shipping
+- Boxes and pallets are clearly labeled with net and gross weights
+
+## Quantities Per Box/Pallet
+
+### BIDONEX Box/Pallet Quantities
+| Product Code | Pieces per box | Boxes per pallet | Pieces per pallet | Pallet Net/Gross Weight |
+|--------------|----------------|------------------|-------------------|-------------------------|
+| BID_009      | 110            | 9                | 990               | 70/108 kg              |
+| BID_011      | 140            | 9                | 1260              | 82/120 kg              |
+| BID_012      | 120            | 9                | 1080              | 81/120 kg              |
+| BID_013      | 100            | 9                | 900               | 72/110 kg              |
+
+### ShakerX Box/Pallet Quantities
+
+#### ShakerX 400ml
+- Box Quantity: 60 pieces per box
+- Pallet Version 1:
+  - Dimensions: 1200 x 800 x 1800 mm
+  - Quantity: 720 pieces (12 boxes)
+  - Weight: 72 kg
+- Pallet Version 2:
+  - Dimensions: 1200 x 800 x 2200 mm
+  - Quantity: 960 pieces (16 boxes)
+  - Weight: 96 kg
+
+#### ShakerX 700ml
+- Box Quantity: 56 pieces per box
+- Pallet Version 1:
+  - Dimensions: 1200 x 800 x 1800 mm
+  - Quantity: 672 pieces (12 boxes)
+  - Weight: 96 kg
+- Pallet Version 2:
+  - Dimensions: 1200 x 800 x 2200 mm
+  - Quantity: 896 pieces (16 boxes)
+  - Weight: 128 kg
+
+#### ShakerX 400ml 2in1
+- Box Quantity: 48 pieces per box
+- Pallet Version 1:
+  - Dimensions: 1200 x 800 x 1800 mm
+  - Quantity: 576 pieces (12 boxes)
+  - Weight: 60 kg
+- Pallet Version 2:
+  - Dimensions: 1200 x 800 x 2200 mm
+  - Quantity: 768 pieces (16 boxes)
+  - Weight: 80 kg
+
+#### ShakerX 700ml 2in1
+- Box Quantity: 48 pieces per box
+- Pallet Version 1:
+  - Dimensions: 1200 x 800 x 1800 mm
+  - Quantity: 576 pieces (12 boxes)
+  - Weight: 96 kg
+- Pallet Version 2:
+  - Dimensions: 1200 x 800 x 2200 mm
+  - Quantity: 768 pieces (16 boxes)
+  - Weight: 128 kg
+
+## Shipping Options
+
+### Standard Shipping
+- Carrier: DPD
+- Cost: 30 EUR net per box (for standard European delivery)
+- Tracking: Provided on the day of shipment
+- Delivery Time: Typically 2-3 business days after shipping (within Europe)
+
+### Pallet Shipping
+- Available for larger orders
+- More cost-effective for high-volume orders
+- Custom quote provided based on destination and order size
+
+### Client-Arranged Shipping
+- Clients may arrange their own shipping if preferred
+- We will prepare the order for pickup by the client's chosen carrier
+- Coordination required for pickup date and time
+
+## Sample Shipping
+
+- Cost: 30 EUR net for delivery
+- This amount is deducted from the final order total if an order is placed later
+- Samples are selected from previous orders that are most similar to the client's requirements
+
+## Shipping Policies
+
+### Delivery Confirmation
+- Tracking information is provided on the day of shipment
+- Final invoice and marketing materials are sent with shipping confirmation
+
+### International Shipping
+- Available to most countries
+- Customs duties and taxes may apply depending on the destination country
+- These additional fees are the responsibility of the recipient
+
+### Shipping Timeline
+- Orders are shipped after production is complete (7-14 business days after payment)
+- Shipping time is additional to the production time
+- Expedited shipping options may be available upon request (additional fees apply)
+
+### Address Requirements
+- Full delivery address must be provided
+- Recipient's phone number is required for shipping
+- Any special delivery instructions should be provided in advance

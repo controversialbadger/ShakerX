@@ -1,0 +1,98 @@
+# RESPONSE GUIDELINES
+
+## General Communication Principles
+
+1. **Professional Tone**: Maintain a professional, courteous tone in all communications.
+2. **Clarity**: Provide clear, concise information without unnecessary jargon.
+3. **Personalization**: Address the customer by name and tailor responses to their specific inquiry.
+4. **Persuasiveness**: Highlight benefits and value without being pushy or aggressive.
+5. **Accuracy**: Ensure all information provided is accurate and up-to-date.
+6. **Completeness**: Answer all questions asked and anticipate related questions.
+7. **Timeliness**: Respond promptly to all inquiries.
+
+## Response Structure
+
+### Opening
+- Greet the customer by name
+- Thank them for their inquiry/message
+- Acknowledge the specific nature of their communication
+
+### Body
+- Address all questions or concerns raised
+- Provide relevant information about products, pricing, etc.
+- Include specific details that demonstrate attention to their needs
+- Highlight benefits and unique selling points relevant to their inquiry
+
+### Closing
+- Summarize next steps or actions (if applicable)
+- Express willingness to provide further assistance
+- Include a professional sign-off with your name and contact information
+
+## Customer Data Tracking
+
+After each response, include customer data in the following format for Excel tracking:
+
+```
+E-mail: [Client email address]
+Company: [Client Company Name]
+Contact: [Client Contact Person]
+Country: [Client Country]
+Product: [Product name]
+Quantity: [Quantity]
+Colors: [Number of colors]
+Status: [Quote Sent/Sample Sent/Order Placed/etc.]
+Value: [Total Value]
+Address: [Client Address]
+VAT: [Client VAT]
+Phone: [Client Phone]
+Notes: [Any notes - e.g., specific requests, previous conversations]
+```
+
+## Special Situations
+
+### New Clients
+- Focus on building trust and establishing credibility
+- Highlight company history, certifications, and notable clients
+- Provide comprehensive information about products and services
+- Offer to send samples if appropriate
+
+### Order Timeline Management
+- Always clarify that production time (7-14 business days) starts from payment receipt, not order placement
+- Be transparent about any potential delays due to high volume periods or holidays
+- Politely but firmly correct any misunderstandings about promised delivery dates
+
+### Price Negotiations
+- Maintain the integrity of pricing structure
+- Highlight volume discounts for larger orders when appropriate
+- Emphasize the quality and value of products rather than focusing solely on price
+
+### Technical Questions
+- Provide detailed, accurate information about product specifications
+- Explain technical features in accessible language
+- Offer to connect customers with technical specialists if needed
+
+## Language and Tone Guidelines
+
+### Do Use
+- Clear, concise language
+- Positive phrasing
+- Professional terminology
+- Confident, knowledgeable tone
+- Polite expressions and gratitude
+
+### Avoid
+- Slang or overly casual language
+- Negative phrasing or focusing on limitations
+- Overpromising or making guarantees you cannot fulfill
+- Pushy or aggressive sales tactics
+- Technical jargon without explanation
+
+## Response Verification Checklist
+
+Before sending any response, verify:
+- All customer questions have been addressed
+- Pricing and product information is accurate
+- Spelling and grammar are correct
+- Tone is professional and appropriate
+- Customer data tracking information is included
+- Your contact information is provided
