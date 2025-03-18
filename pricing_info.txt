@@ -1,0 +1,119 @@
+# PRICING INFORMATION
+
+## Bidonex Pricing
+
+### Model: BID009 / 750ml
+- Standard Price (1 color print):
+  - 50-99 pcs: 2.50 €
+  - 100-199 pcs: 2.00 €
+  - 200-399 pcs: 1.85 €
+  - 400-799 pcs: 1.70 €
+  - 800-1199 pcs: 1.55 €
+  - 1200-1500 pcs: 1.40 €
+  - 1500+ pcs: 1.25 €
+
+### Model: BID011 / 600ml
+- Standard Price (1 color print):
+  - 50-99 pcs: 2.50 €
+  - 100-199 pcs: 1.90 €
+  - 200-399 pcs: 1.75 €
+  - 400-799 pcs: 1.60 €
+  - 800-1199 pcs: 1.45 €
+  - 1200-1500 pcs: 1.30 €
+  - 1500+ pcs: 1.15 €
+
+### Model: BID012 / 900ml
+- Standard Price (1 color print):
+  - 50-99 pcs: 2.50 €
+  - 100-199 pcs: 2.10 €
+  - 200-399 pcs: 1.95 €
+  - 400-799 pcs: 1.80 €
+  - 800-1199 pcs: 1.65 €
+  - 1200-1500 pcs: 1.50 €
+  - 1500+ pcs: 1.35 €
+
+### Model: BID013 / 1000ml
+- Standard Price (1 color print):
+  - 50-99 pcs: 2.50 €
+  - 100-199 pcs: 2.10 €
+  - 200-399 pcs: 1.95 €
+  - 400-799 pcs: 1.80 €
+  - 800-1199 pcs: 1.65 €
+  - 1200-1500 pcs: 1.50 €
+  - 1500+ pcs: 1.35 €
+
+### Additional Print Costs for Bidonex (Per Piece)
+- 2 Colors: 
+  - 50-99 pcs: +0.70 €
+  - 100-799 pcs: +0.50 €
+  - 800+ pcs: +0.30 €
+- 3 Colors: 
+  - 50-99 pcs: +1.40 €
+  - 100-799 pcs: +1.00 €
+  - 800+ pcs: +0.60 €
+- 4 Colors: 
+  - 50-99 pcs: +2.10 €
+  - 100-799 pcs: +1.50 €
+  - 800+ pcs: +0.90 €
+
+### Matrix Fee for Bidonex
+- 18 EUR per print color (applies to BID products only)
+
+## ShakerX Pricing
+
+### ShakerX / 400ml
+- Standard Price (1 color print):
+  - 60 pcs: 3.70 €
+  - 120 pcs: 3.50 €
+  - 180 pcs: 3.30 €
+  - 360 pcs: 3.20 €
+  - 660 pcs: 3.00 €
+  - 1260 pcs: 2.70 €
+  - 1980 pcs: 2.50 €
+  - 2880 pcs: 2.20 €
+
+### ShakerX / 700ml
+- Standard Price (1 color print):
+  - 56 pcs: 4.20 €
+  - 112 pcs: 4.00 €
+  - 168 pcs: 3.80 €
+  - 336 pcs: 3.70 €
+  - 616 pcs: 3.50 €
+  - 1176 pcs: 3.20 €
+  - 1848 pcs: 3.00 €
+  - 2688 pcs: 2.70 €
+
+### ShakerX / 400ml / 2in1 (2 compatible caps included)
+- Standard Price (1 color print):
+  - 48 pcs: 4.40 €
+  - 96 pcs: 4.20 €
+  - 144 pcs: 4.00 €
+  - 288 pcs: 3.90 €
+  - 528 pcs: 3.70 €
+  - 1008 pcs: 3.40 €
+  - 1584 pcs: 3.20 €
+  - 2304 pcs: 2.90 €
+
+### ShakerX / 700ml / 2in1 (2 compatible caps included)
+- Standard Price (1 color print):
+  - 48 pcs: 4.90 €
+  - 96 pcs: 4.70 €
+  - 144 pcs: 4.50 €
+  - 288 pcs: 4.40 €
+  - 528 pcs: 4.20 €
+  - 1008 pcs: 3.90 €
+  - 1584 pcs: 3.70 €
+  - 2304 pcs: 3.40 €
+
+### Additional Print Costs for ShakerX (Per Piece)
+- 2 Colors: +0.50 € (all quantities)
+- 3 Colors: +1.00 € (all quantities)
+
+## Delivery Costs
+- Standard delivery cost: 30 EUR net per box
+- Costs vary based on order size and destination
+- Pallet shipping available for larger orders
+
+## Sample Costs
+- Sample delivery cost: 30 EUR net
+- This amount is deducted from the final order total if an order is placed later

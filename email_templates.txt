@@ -1,0 +1,162 @@
+# EMAIL TEMPLATES
+
+## Initial Inquiry Response
+
+Dear [Client Name],
+
+Thank you for your interest in our [Bidonex/ShakerX] products.
+
+To provide you with an accurate quotation and a free product mockup, please send us your logo in vector format (or high-quality JPG) and specify the product model and quantity you are interested in.
+
+Our minimum order quantities are:
+- Sports bottles (Bidonex): 50 pieces
+- Shakers (ShakerX): 56 pieces for 700ml model, 60 pieces for 400ml model
+
+I look forward to hearing from you.
+
+Kind regards,
+[Your Name]
+[Your Position]
+E: [Your Email]
+www.bidonex.com
+
+## Quotation Response
+
+Dear [Client Name],
+
+Thank you for providing the details. Here is the quotation for your custom order:
+
+Model [Model Name] ([Quantity] units) ([Number of Colors] colour print)
+[Model Name] [Quantity] units x [Unit Price] EUR = [Total Product Price] EUR Net
+[If applicable: Additional colours charge = [Additional Color Charge] EUR Net]
+Matrix for [Number of Colors] colours = [Matrix Fee] EUR Net
+Delivery cost = [Delivery Cost] EUR Net
+Total cost = [Total Cost] EUR Net
+
+The production time is approximately 5-10 business days after we receive payment. Please let me know if you have any questions or would like to proceed with your order.
+
+Best regards,
+[Your Name]
+[Your Position]
+E: [Your Email]
+www.bidonex.com
+
+## Sample Request Response
+
+Dear [Client Name],
+
+Thank you for your request. We are happy to send a sample [bottle/shaker] for your evaluation.
+
+To proceed, please provide your full delivery address, including the recipient's phone number. The delivery cost for a sample is 30 EUR net and is non-refundable, but this sum will be deducted from the order total if you decide to place an order.
+
+We look forward to hearing from you.
+
+Kind regards,
+[Your Name]
+[Your Position]
+E: [Your Email]
+www.bidonex.com
+
+## Order Confirmation & Payment Details
+
+Dear [Client Name],
+
+Thank you for your order! Your order has been submitted for processing.
+
+Please find attached the proforma invoice with payment details. Once we receive the payment confirmation, production will begin.
+
+You will receive a final invoice and a tracking link on the day of shipment.
+
+Best regards,
+[Your Name]
+[Your Position]
+E: [Your Email]
+www.bidonex.com
+
+## Shipping Confirmation
+
+Dear [Client Name],
+
+Your order has been shipped.
+
+Attached you will find the final package with graphics that you can use for promoting the [product] with your logo.
+
+Thank you for your order!
+
+Best regards,
+[Your Name]
+[Your Position]
+E: [Your Email]
+www.bidonex.com
+
+## Follow-up Email
+
+Dear [Client Name],
+
+I hope this message finds you well.
+
+I'm writing to follow up on the visualization and pricing information I sent you earlier. I wanted to check if you had a chance to review it and if you have any questions or feedback.
+
+Please let me know if you need any adjustments to the design or if you'd like to proceed with the order.
+
+I'm here to help and can adapt the project to meet your needs.
+
+Kind regards,
+[Your Name]
+[Your Position]
+E: [Your Email]
+www.bidonex.com
+
+## Addressing Minimum Order Quantities
+
+Dear [Client Name],
+
+Thank you for your interest in our products.
+
+I wanted to clarify that our minimum order quantities are 50 units for sports bottles and 56/60 units for ShakerX products (depending on the model). This allows us to maintain competitive pricing and ensure the highest quality of custom-printed products.
+
+We are ready to proceed with your order once you decide on the model and quantity.
+
+Kind regards,
+[Your Name]
+[Your Position]
+E: [Your Email]
+www.bidonex.com
+
+## Addressing Printing Options
+
+Dear [Client Name],
+
+Thank you for your question regarding printing options.
+
+We offer full customization with 1-4 color printing options for logos, branding, and unique designs for Bidonex bottles and 1-3 colors for ShakerX shakers.
+
+Please note that prices depend on quantity and the number of print colors. Each additional color incurs an extra charge per piece, as detailed in our pricing structure.
+
+If you have any further questions, don't hesitate to contact us.
+
+Kind regards,
+[Your Name]
+[Your Position]
+E: [Your Email]
+www.bidonex.com
+
+## Addressing Color Variations
+
+Dear [Client Name],
+
+Thank you for your interest in our products.
+
+I wanted to inform you that colors might appear slightly different on white versus black [bottles/shakers], due to the opacity of certain colors. This is particularly noticeable with light colors on dark backgrounds.
+
+If precise color matching is crucial for your design, we can perform an underprinting process. This technique is used for colors with poor opacity and would involve an additional fee for extra printing colors.
+
+Alternatively, we can use colors from our verified palette to ensure optimal results.
+
+Please let me know your preference, and I'll be happy to provide updated pricing accordingly.
+
+Kind regards,
+[Your Name]
+[Your Position]
+E: [Your Email]
+www.bidonex.com
