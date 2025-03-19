@@ -1,0 +1,100 @@
+# ORDER PROCESS INFORMATION
+
+## Complete Ordering Process
+
+### 1. Initial Inquiry
+- Client contacts us with interest in our products
+- We provide general information about our products and services
+- We request the client's logo and quantity requirements to prepare a quotation
+
+### 2. Quotation and Visualization
+- Upon receiving the client's logo and quantity requirements, we prepare:
+  - A free product visualization with the client's logo
+  - A detailed quotation based on the product model, quantity, and number of print colors
+- The visualization is preliminary and can be adjusted based on client feedback
+- We also provide the color palette available for customization
+
+### 3. Order Confirmation
+- Client approves the visualization and quotation
+- We request the following information to proceed:
+  - Full billing address for the Pro Forma Invoice:
+    - Company name
+    - Address
+    - VAT number (for EU clients)
+  - Full delivery address:
+    - Delivery location name
+    - Address
+    - Recipient's phone number (required for shipping)
+
+### 4. Payment
+- We issue a Pro Forma Invoice with payment details
+- Payment is required in advance via bank transfer
+- This is because printed bottles/shakers are fully personalized products made to order
+- Production begins only after payment confirmation is received
+
+### 5. Production
+- After payment confirmation, the order is submitted for approval and processing
+- Production time is 7-14 business days for orders up to 500 pieces
+- Larger orders may require up to 14 business days
+- The production timeline starts from the moment payment is received, not from the date of order placement
+
+### 6. Shipping
+- Upon completion of production, the order is shipped
+- On the day of shipment, the client receives:
+  - Final invoice
+  - Tracking link for the shipment
+  - Marketing materials to assist in promoting the product
+
+## Important Timeline Considerations
+
+- The fulfillment period is up to 7-14 business days + delivery time (for orders up to 500 pcs)
+- Maximum production time is 14 business days for larger orders
+- Production time starts from the moment payment is received, not from the date of quotation or order placement
+- Shipping time is additional to the production time
+- During high-volume periods (e.g., pre-holiday seasons), production times may be longer
+
+## Sample Orders
+
+### Sample Request Process
+1. Client requests a sample of our products
+2. We require the following information:
+   - Billing details for issuing a Pro Forma Invoice (including VAT Number)
+   - Delivery address (including the telephone number of the recipient)
+3. The cost for sample delivery is 30 EUR net
+4. This amount is deducted from the final order total if the client decides to place an order later
+5. Samples are selected from previous orders that are most similar to the client's requirements
+
+## Special Order Considerations
+
+### Minimum Order Quantities (MOQ)
+- BIDONEX sports bottles: 50 pieces
+- ShakerX 700ml: 56 pieces
+- ShakerX 400ml: 60 pieces
+- ShakerX 400ml 2in1: 48 pieces
+- ShakerX 700ml 2in1: 48 pieces
+
+### Color Considerations
+- Colors might appear slightly different on white vs. black bottles/shakers due to opacity differences
+- For precise color matching, especially with light colors on dark backgrounds, underprinting may be necessary (additional cost)
+- We offer a verified color palette to ensure consistent results
+
+### Box Quantities
+- Due to our meticulous packaging to ensure products remain undamaged during transportation, orders must be in specific box quantities
+- For example, ShakerX 700ml must be ordered in multiples of 56 pieces (1 box)
+- For larger orders, we recommend pallet shipping which offers more advantageous pricing
+
+## Order Modifications
+
+- Design adjustments can be made before production begins
+- Once production has started, modifications cannot be accommodated
+- For color or quantity changes, please inform us before payment is made
+
+## Reseller Information
+
+- Special pricing is available for resellers
+- Reseller's Pack includes:
+  - Offer (including pricelist for resellers)
+  - Files for preparing product visualization with your own logo
+  - Marketing materials without our branding
+  - Certificates
+  - Color palette describing our standard colors in PMS and RAL

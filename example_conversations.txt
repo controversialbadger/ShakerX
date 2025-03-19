@@ -1,0 +1,343 @@
+# EXAMPLE CONVERSATIONS
+
+## Example 1: Sample Request and Address Confirmation
+
+### Customer Inquiry:
+```
+Hi Bartosz,
+
+Our office address:
+
+Dimsport d.o.o
+Savska cesta 3a
+1000 Ljubljana
+Slovenia
+
+The bottle can be of any size.
+
+My phone number: 00386 68 68 22 70
+
+Many thanks,
+
+Katarina Starc
+```
+
+### Professional Response:
+```
+Dear Katarina,
+
+Thank you for providing your delivery information. We will proceed with sending a sample bottle to your office address.
+
+Your sample will be dispatched shortly to:
+Dimsport d.o.o
+Savska cesta 3a
+1000 Ljubljana
+Slovenia
+
+We have noted your phone number (00386 68 68 22 70) for the delivery service.
+
+Once the sample has been shipped, I will send you a tracking number so you can monitor its progress. If you have any questions in the meantime, please don't hesitate to contact me.
+
+Kind Regards,
+Bartosz Kula
+International Sales Manager
+E: bartoszkula@bidonex.com
+www.bidonex.com
+```
+
+### Customer Data:
+```
+E-mail: katarina.starc@dimsport.si
+Company: Dimsport d.o.o
+Contact: Katarina Starc
+Country: Slovenia
+Product: Sample bottle
+Quantity: 1
+Colors: N/A
+Status: Sample Shipping Arranged
+Value: 30 EUR (shipping)
+Address: Savska cesta 3a, 1000 Ljubljana, Slovenia
+VAT: Not provided
+Phone: 00386 68 68 22 70
+Notes: Customer requested a sample bottle of any size
+```
+
+## Example 2: Minimum Order Quantity Inquiry
+
+### Customer Inquiry:
+```
+Hi,
+
+here is my logo in different files. Please send me price for 10-20 bottles delivered to Pilsen, CZ.
+
+Thank you
+```
+
+### Professional Response:
+```
+Dear Jakub,
+
+Thank you for your interest in our products.
+
+I am writing to provide you with information regarding your price request. Please note that our minimum order quantity is 50 units. I have attached a visualization featuring your logo for your review.
+
+Here is the pricing for our minimum order quantity:
+
+Model BID009 (50 units) (2 colour print)
+BID009 50 unit x 2.50 EUR = 125.00 EUR Net
+Additional colours charge = 35.00 EUR Net
+Matrix for 2 colours = 36.00 EUR Net
+Delivery cost = 30.00 EUR Net
+Total cost = 226.00 EUR Net
+
+Model BID009 (50 units) (1 colour print)
+BID009 50 unit x 2.50 EUR = 125.00 EUR Net
+Matrix for 1 colours = 18.00 EUR Net
+Delivery cost = 30.00 EUR Net
+Total cost = 173.00 EUR Net
+
+Regarding the production timeline, we estimate it will take 5-10 business days to complete your order after we receive payment of the pro forma invoice.
+
+If you have any questions or require further information, please don't hesitate to contact me.
+
+We look forward to the opportunity to work with you.
+
+Kind Regards,
+Bartosz Kula
+International Sales Manager
+E: bartoszkula@bidonex.com
+www.bidonex.com
+```
+
+### Customer Data:
+```
+E-mail: jakub@flysport.cz
+Company: FlySport.cz
+Contact: Jakub Rott
+Country: Czech Republic
+Product: BID009
+Quantity: 50 (minimum)
+Colors: 1-2
+Status: Quote Sent
+Value: 173.00-226.00 EUR
+Address: Pilsen, CZ (full address needed)
+VAT: Not provided
+Phone: +420 773 444 452
+Notes: Customer initially requested 10-20 bottles, informed about 50 unit MOQ
+```
+
+## Example 3: Follow-up Question About Design Options
+
+### Customer Inquiry:
+```
+Hi,
+
+I understand, it's it possible to have 2 different design for one order 50 unites? Do you have also transparent bidon si you can see how much in is missing? Or is it visible trhought the white one? 🙃
+
+Thank you
+```
+
+### Professional Response:
+```
+Hello Jakub,
+
+Unfortunately, the minimum per design is 50 pieces. Each design requires its own production setup, which is why we maintain this minimum quantity per design.
+
+Regarding your question about transparent bottles - yes, we do have transparent bottles available. The transparent bottles allow you to clearly see the liquid level inside, which is not visible through the white bottles.
+
+I've attached an image of our recent transparent bottle realization for your reference.
+
+Please let me know if you would like to proceed with either the white or transparent bottles, or if you have any other questions.
+
+Kind Regards,
+Bartosz Kula
+International Sales Manager
+E: bartoszkula@bidonex.com
+www.bidonex.com
+```
+
+### Customer Data:
+```
+E-mail: jakub@flysport.cz
+Company: FlySport.cz
+Contact: Jakub Rott
+Country: Czech Republic
+Product: BID009
+Quantity: 50
+Colors: 1-2
+Status: Quote Sent, Additional Information Provided
+Value: 173.00-226.00 EUR
+Address: Pilsen, CZ (full address needed)
+VAT: Not provided
+Phone: +420 773 444 452
+Notes: Customer inquired about multiple designs in one order and transparent bottle options
+```
+
+## Example 4: Initial Quotation Based on Logo
+
+### Customer Inquiry:
+```
+Dear Bartosz,
+
+Thank you for your presentation.
+
+Can you please prepare us an offer (+ shipping cost to Slovenia) for 50 pcs of 750 ml.
+
+Our logo attached.
+
+Best regards,
+
+Katarina Starc
+```
+
+### Professional Response:
+```
+Dear Katarina,
+
+Thank you for your interest in our products. I'm pleased to provide you with the requested information.
+
+Please find attached:
+- A visualization of the bottle with your logo in 2 and 1 print color
+- Our complete product offer, including pricing for every model
+
+Here is the quotation:
+
+Model BID009 (50 units) (2 colour print)
+BID009 50 unit x 2.50 EUR = 125.00 EUR Net
+Additional colours charge = 35.00 EUR Net
+Matrix for 2 colours = 36.00 EUR Net
+Delivery cost = 30.00 EUR Net
+Total cost = 226.00 EUR Net
+
+Model BID009 (50 units) (1 colour print)
+BID009 50 unit x 2.50 EUR = 125.00 EUR Net
+Matrix for 1 colours = 18.00 EUR Net
+Delivery cost = 30.00 EUR Net
+Total cost = 173.00 EUR Net
+
+Best Offer:
+BID009 100 unit x 2.00 EUR = 200.00 EUR Net
+Matrix for 1 colours = 18.00 EUR Net
+Delivery cost = 30.00 EUR Net
+Total cost = 248.00 EUR Net
+
+I'd also like to mention that our product range includes shakers, which you might find interesting for your sports-oriented clientele. Please let me know if you would be interested in shakers. Feel free to visit our website at: ShakerX
+
+If you have any questions about the offer or need any modifications, please don't hesitate to contact me.
+
+We're looking forward to potentially working with Dimsport.
+
+Kind Regards,
+Bartosz Kula
+International Sales Manager
+E: bartoszkula@bidonex.com
+www.bidonex.com
+```
+
+### Customer Data:
+```
+E-mail: katarina.starc@dimsport.si
+Company: Dimsport d.o.o
+Contact: Katarina Starc
+Country: Slovenia
+Product: BID009
+Quantity: 50-100
+Colors: 1-2
+Status: Quote Sent
+Value: 173.00-248.00 EUR
+Address: Savska cesta 3a, 1000 Ljubljana, Slovenia
+VAT: Not provided
+Phone: 00386 68 68 22 70
+Notes: Customer requested quotation for 50 pcs of 750ml bottles, provided logo
+```
+
+## Example 5: Order Confirmation and Payment Request
+
+### Customer Inquiry:
+```
+[Customer has approved the design and quotation and is ready to place an order]
+```
+
+### Professional Response:
+```
+Dear [Client Name],
+
+Thank you for your order! Your order has been submitted for approval and processing.
+
+Please find attached the proforma invoice with payment details and the final version of your project for your approval.
+
+After making the transfer, please send me the payment confirmation so that I can promptly proceed with your order for approval and processing.
+
+On the day of shipment, you will receive an email from us with the final invoice and a tracking link for your package.
+
+If you have any questions or need any clarification, please don't hesitate to contact me.
+
+Best regards,
+Bartosz Kula
+International Sales Manager
+E: bartoszkula@bidonex.com
+www.bidonex.com
+```
+
+### Customer Data:
+```
+E-mail: [Client email address]
+Company: [Client Company Name]
+Contact: [Client Contact Person]
+Country: [Client Country]
+Product: [Product name]
+Quantity: [Quantity]
+Colors: [Number of colors]
+Status: Proforma Invoice Sent
+Value: [Total Value]
+Address: [Client Address]
+VAT: [Client VAT]
+Phone: [Client Phone]
+Notes: Customer approved design and quotation, proforma invoice sent
+```
+
+## Example 6: Shipping Confirmation
+
+### Customer Inquiry:
+```
+[No inquiry - this is a proactive notification]
+```
+
+### Professional Response:
+```
+Hello [Client Name],
+
+Your order has been shipped.
+
+Attached you will find:
+1. The final invoice for your records
+2. A tracking link for your shipment
+3. Marketing materials that you can use to promote your product, for example, on your website
+
+Thank you for your order! We value your business and look forward to the possibility of working together again in the future.
+
+If you have any questions about your shipment or need any assistance, please don't hesitate to contact me.
+
+Best regards,
+Bartosz Kula
+International Sales Manager
+E: bartoszkula@bidonex.com
+www.bidonex.com
+```
+
+### Customer Data:
+```
+E-mail: [Client email address]
+Company: [Client Company Name]
+Contact: [Client Contact Person]
+Country: [Client Country]
+Product: [Product name]
+Quantity: [Quantity]
+Colors: [Number of colors]
+Status: Order Shipped
+Value: [Total Value]
+Address: [Client Address]
+VAT: [Client VAT]
+Phone: [Client Phone]
+Notes: Order shipped, tracking information and marketing materials sent
+```
